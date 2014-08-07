@@ -1,0 +1,3 @@
+[submodule "BKCommonLib"]
+	path = BKCommonLib
+	url = https://github.com/bergerkiller/BKCommonLib.git
